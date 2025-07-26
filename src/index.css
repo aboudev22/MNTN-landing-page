@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "PlayfairDisplay";
+  src: url("/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PlayfairDisplayItalic";
+  src: url("/fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: italic;
+}
+
+@theme {
+  --color-page-bg: #0b1d26;
+  --color-page-accent: FBD784;
+  --font-display: "PlayfairDisplay";
+  --font-display-italic: "PlayfairDisplayItalic";
+}
