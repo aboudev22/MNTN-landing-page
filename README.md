@@ -20,6 +20,6 @@ pnpm install
 # Start the dev server
 pnpm run dev
 ```
-# preview
+## 📷 Preview
 
-[preview](./public/page.png)
+![Preview of the landing page](./page.png)
