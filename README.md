@@ -20,3 +20,6 @@ pnpm install
 # Start the dev server
 pnpm run dev
 ```
+# preview
+
+[preview](./public/page.png)
