@@ -22,4 +22,4 @@ pnpm run dev
 ```
 ## 📷 Preview
 
-![Preview of the landing page](./page.png)
+![Preview of the landing page](/public/page.png)
